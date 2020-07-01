@@ -93,6 +93,6 @@ print(a)
 a= input("请输入：")
 b= input("请输入：")
 
-print()
+print("input获取内容：",len(a+b))
 
 
